@@ -13,7 +13,7 @@ body {
 
 #cabecalho .nav .nav-link,
 .navbar-brand,
-.navbar-brand:hover
+.navbar-brand:hover,
 .nav-cardapio .nav-link.active:hover {
     color: #fff;
 }
@@ -51,23 +51,6 @@ body {
 
 .social-links a {
     text-decoration: none;
-}
-
-
-.cow-md-5 {
-    display: flex;
-    flex-direction: row;
-    margin-top: -50px;
-    margin-left: 250px;
-    
-}
-
-.row {
-    align-items: center;
-}
-
-.fw-bold.text-start.nav-link.text-colored.active:hover {
-    color: black;
 }
 
 @media (max-width: 767px) {
